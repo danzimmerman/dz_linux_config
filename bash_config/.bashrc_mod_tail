@@ -1,0 +1,4 @@
+
+if [ -f ~/dz_linux_config/bash_config/.bashrc_additions ]; then
+    . ~/dz_linux_config/bash_config/.bashrc_additions
+fi
